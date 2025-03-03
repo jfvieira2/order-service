@@ -105,14 +105,3 @@ order-service/
 
 ---
 
-## 📌 Melhorias Futuras
-- 📌 Implementar autenticação JWT para proteger os endpoints.
-- 📌 Criar notificações via WebSocket para novos pedidos.
-- 📌 Criar um painel de monitoramento dos pedidos.
-
----
-
-## 📌 Autor
-👨‍💻 **Desenvolvido por [Seu Nome]**  
-📧 Contato: seuemail@exemplo.com  
-🌎 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
